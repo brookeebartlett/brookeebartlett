@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brookeebartlett
 - 👀 I’m interested in ... GIS, Environmental Science, and all things nerdy.
-- 🌱 I’m currently learning ... Python, Postgres, PostGIS, and SQL.
+- 🌱 I’m currently learning ... FME, Python, Postgres, PostGIS, and SQL.
 - 💞️ I’m looking to collaborate on ... any GIS/Environmental Science projects.
 - 📫 How to reach me ... bbartlett422@gmail.com :)
 - 
